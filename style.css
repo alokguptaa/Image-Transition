@@ -14,7 +14,7 @@
     width: 60%;
     margin: auto;
     line-height: 0;
-    background-image: url(images/background.png);
+    background-image: url(background.png);
     overflow: hidden;
     position: relative;
 }
